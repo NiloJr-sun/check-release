@@ -33,4 +33,5 @@ Follow these steps to set up your environment for local testing.
    cd check-release/testing-local
 2. **Run this command**
    ```bash
-   ./check-release.sh PR_NUMBER REPO/NAME
+   For Main Threads: ./check-release.sh PR_LINK
+   For Follow up Threads: ./check-release.sh PR_LINK TIME_STAMP
