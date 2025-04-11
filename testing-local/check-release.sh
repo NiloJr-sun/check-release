@@ -1,7 +1,7 @@
 #!/bin/bash
 # Command to run: ./check-release.sh 15142 meetsmore/meetsone
 
-TARGET_USER=https://hooks.slack.com/services/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
+TARGET_USER= # Add your channel target here
 
 PR_LINK=$1
 THREAD_TS=$2
